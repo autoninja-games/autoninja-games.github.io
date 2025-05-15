@@ -1,0 +1,80 @@
+{
+  "name": "Auto Ninja Games",
+  "short_name": "Auto Ninja",
+  "description": "Discover the best ninja games online! Play Auto Ninja and other exciting free ninja games directly in your browser. No downloads – just fast, fun, and action-packed online games for every ninja fan!",
+  "icons": [
+    {
+      "src": "/favicon/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "apple-touch-icon"
+    },
+    {
+      "src": "/favicon/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon/mstile-150x150.png",
+      "sizes": "150x150",
+      "type": "image/png",
+      "purpose": "msapplication-icon"
+    }
+  ],
+  "splash_screens": [
+    {
+      "src": "/favicon/apple-splash-2048-2732.png",
+      "sizes": "2048x2732",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon/apple-splash-1668-2388.png",
+      "sizes": "1668x2388",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon/apple-splash-1536-2048.png",
+      "sizes": "1536x2048",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon/apple-splash-1125-2436.png",
+      "sizes": "1125x2436",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon/apple-splash-750-1334.png",
+      "sizes": "750x1334",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon/apple-splash-640-1136.png",
+      "sizes": "640x1136",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "lang": "en"
+}
